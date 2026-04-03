@@ -11,17 +11,14 @@ Essas imagens **não** estão disponíveis no Docker Hub.
 
 Para obtê-las, basta executar o `docker-compose` nos seguintes repositórios:
 
-- [FIAP_TechChallenge_API](https://github.com/ThiagoBertoldi1/FIAP_TechChallenge_API)
-- [FIAP_TechChallenge_RabbitMQ](https://github.com/ThiagoBertoldi1/FIAP_TechChallenge_RabbitMQ)
+- [FIAP_Fase1_e_Fase2_TechChallenge](https://github.com/ThiagoBertoldi1/FIAP_Fase1_e_Fase2_TechChallenge)
+- [FIAP_Fase3_TechChallenge](https://github.com/ThiagoBertoldi1/FIAP_Fase3_TechChallenge)
 
 ---
 
 ## ⚙️ Comandos para criar o ambiente
 
 > Foi utilizado o **kind** como ambiente local.
-
-Os scripts de criação estão disponíveis no repositório:
-- [Configs-K8s](https://github.com/ThiagoBertoldi1/Configs-K8s)
 
 ### 🔨 Criar o cluster
 
