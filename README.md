@@ -9,7 +9,7 @@ Essas imagens **não** estão disponíveis no Docker Hub.
 - `worker-delete:latest`
 - `techchallengeapi-dotnet-api:latest`
 
-Para obtê-las, basta executar o `docker-compose` nos seguintes repositórios:
+Para obtê-las, basta executar o `docker-compose` nos repositórios:
 
 - [FIAP_Fase1_e_Fase2_TechChallenge](https://github.com/ThiagoBertoldi1/FIAP_Fase1_e_Fase2_TechChallenge)
 - [FIAP_Fase3_TechChallenge](https://github.com/ThiagoBertoldi1/FIAP_Fase3_TechChallenge)
